@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class ExpenseTracker {
 
-    private static final String FILE_PATH = "src/main/resources/exp.csv";
+    private static final String FILE_PATH = "data/expenses.csv";
 
     public static void main(String[] args) {
 
